@@ -77,8 +77,8 @@ B) What minimal changes to the struct above would you have to make to implement 
 
 ### Question 3
 
-A) Give two examples of compile time polymorphism.
+Polymorphism 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYxOTY0NTMsNjIyNjkzMzA1LC01OD
+eyJoaXN0b3J5IjpbLTE2MDYxNDIxNDIsNjIyNjkzMzA1LC01OD
 MyODkxM119
 -->
