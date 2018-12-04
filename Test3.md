@@ -31,12 +31,12 @@ Name: __________________________________
 
 ### Question 1
 
-A) ______________ Is the object definition;
-B) ______________ Is the object;
-C) `name` and `id` are 
->	a) public
-	b) private
-	c) protected
+- A) ______________ Is the object definition;
+- B) ______________ Is the object;
+- C) `name` and `id` are 
+>	- a) public
+	- b) private
+	- c) protected
 	d) private and protected
 	e) a b & c
 	
@@ -76,5 +76,5 @@ struct Fraction {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMzNzAyOV19
+eyJoaXN0b3J5IjpbLTE2NjQzNDA5MDEsLTIxMjMzNzAyOV19
 -->
