@@ -73,10 +73,10 @@ struct Fraction {
 	} 
 }; 
 ```
-B) Make changes to the 
+B) What changes to the struct above would you have to make to implement proper **`data abstraction`** or **`implementation hiding`**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDg2MjQxMSwtMjE2ODUwNTcxLC01OD
+eyJoaXN0b3J5IjpbMTI1NTU5OTg5MiwtMjE2ODUwNTcxLC01OD
 MyODkxMywtMjEyMzM3MDI5XX0=
 -->
