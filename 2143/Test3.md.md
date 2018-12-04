@@ -77,12 +77,13 @@ B) What minimal changes to the struct above would you have to make to implement 
 
 ### Question 3
 
-Polymorphism means to have many forms. What this means in OOP is that we override and overload methods in our classes. There are two distinct categories of polymorphism: **compile time** and **run time**. Look at the list below and on your answer sheet indicate which type they are: **C** for compile time, **R** for run time, or **B** for both.
+Polymorphism means to have many forms. What this means in OOP is that we override and overload methods in our classes. There are two distinct categories of polymorphism: **compile time** and **run time**. Look atIn the list below and on your answer sheet indicate which type they are: **C** for compile time, **R** for run time, or **B** for both.
 
 - A) Operator overloading.
 - B) Method overloading.
 - C) Method overriding.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMyODIzMzUsNjIyNjkzMzA1LC01OD
+eyJoaXN0b3J5IjpbLTE2NjMxNzE1NDIsNjIyNjkzMzA1LC01OD
 MyODkxM119
 -->
