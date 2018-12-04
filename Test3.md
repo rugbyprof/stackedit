@@ -34,7 +34,7 @@ Name: __________________________________
 - A) ______________ Is the object definition;
 - B) ______________ Is the object;
 - C) `name` and `id` are 
-	- a) public
+>	- a) public
 	- b) private
 	- c) protected
 	- d) private and protected
@@ -76,5 +76,6 @@ struct Fraction {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzI4OTEzLC0yMTIzMzcwMjldfQ==
+eyJoaXN0b3J5IjpbLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMj
+MzNzAyOV19
 -->
