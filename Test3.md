@@ -73,9 +73,10 @@ struct Fraction {
 	} 
 }; 
 ```
+B) Make changes to the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMj
-MzNzAyOV19
+eyJoaXN0b3J5IjpbMTQwNDg2MjQxMSwtMjE2ODUwNTcxLC01OD
+MyODkxMywtMjEyMzM3MDI5XX0=
 -->
