@@ -82,11 +82,9 @@ Polymorphism means to have many forms. What this means in OOP is that we overrid
 - A) Operator overloading.
 - B) Method overloading.
 - C) Method overriding.
-mark 
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU5NDkxMzMsNzk3MDY2NjcsNjIyNj
-kzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcwMjld
-fQ==
+eyJoaXN0b3J5IjpbLTE2NjMxNzE1NDIsLTE5MTU5NDkxMzMsNj
+IyNjkzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcw
+MjldfQ==
 -->
