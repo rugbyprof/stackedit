@@ -73,10 +73,12 @@ struct Fraction {
 	} 
 }; 
 ```
-B) What changes to the struct above would you have to make to implement proper **`data abstraction`** or **`implementation hiding`**.
+B) What minimal changes to the struct above would you have to make to implement proper **`data abstraction`** or **`implementation hiding`**.
+
+### Question 3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTU5OTg5MiwtMjE2ODUwNTcxLC01OD
-MyODkxMywtMjEyMzM3MDI5XX0=
+eyJoaXN0b3J5IjpbNjIyNjkzMzA1LC0yMTY4NTA1NzEsLTU4Mz
+I4OTEzLC0yMTIzMzcwMjldfQ==
 -->
