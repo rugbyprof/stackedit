@@ -77,8 +77,8 @@ B) What minimal changes to the struct above would you have to make to implement 
 
 ### Question 3
 
-Polymorphism 
+Polymorphism means to have many forms. What this means in OOP is that we offer mulitple versions 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYxNDIxNDIsNjIyNjkzMzA1LC01OD
-MyODkxM119
+eyJoaXN0b3J5IjpbMjAxNDE3NCw2MjI2OTMzMDUsLTU4MzI4OT
+EzXX0=
 -->
