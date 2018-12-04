@@ -34,7 +34,7 @@ Name: __________________________________
 - A) ______________ Is the object definition;
 - B) ______________ Is the object;
 - C) `name` and `id` are 
-	- a) public
+>	- a) public
 	- b) private
 	- c) protected
 	- d) private and protected
@@ -73,9 +73,9 @@ struct Fraction {
 	} 
 }; 
 ```
-B) Make changes to the 
+B) What changes to the struct above would you have to make to implement proper **`data abstraction`** or **`implementation hiding`**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MTg0NzIxLC01ODMyODkxM119
+eyJoaXN0b3J5IjpbMTI1NTU5OTg5MiwtNTgzMjg5MTNdfQ==
 -->
