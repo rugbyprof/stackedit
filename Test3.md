@@ -140,10 +140,13 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 ### Question 7
 
 Explain the difference between 	`public` , `private`, and `protected`. 
+
+A) All the class members declared under __________ will be available to everyone. 
+B) The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU4MDQ0NywtMTk2MjU4ODQwMywtMj
-AxOTI0MjU2NywxOTQxMDQ4NjgwLDE0NzQ2NTIyOTgsLTU0MTQ0
-ODc2MiwxMTk1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0LC
-0xNjYzMTcxNTQyLC0xOTE1OTQ5MTMzLDYyMjY5MzMwNSwtMjE2
-ODUwNTcxLC01ODMyODkxMywtMjEyMzM3MDI5XX0=
+eyJoaXN0b3J5IjpbLTUxNzExNTI0LC0xOTYyNTg4NDAzLC0yMD
+E5MjQyNTY3LDE5NDEwNDg2ODAsMTQ3NDY1MjI5OCwtNTQxNDQ4
+NzYyLDExOTUwMzcxMjcsMTI5NzY1NzE2LC02MTUxMzg1NDQsLT
+E2NjMxNzE1NDIsLTE5MTU5NDkxMzMsNjIyNjkzMzA1LC0yMTY4
+NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcwMjldfQ==
 -->
