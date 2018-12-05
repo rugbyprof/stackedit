@@ -100,8 +100,6 @@ public:
 	cout << "This is a 4 wheeler Vehicle" << endl; 
 	} 
 }; 
-
-// sub class derived from two base classes 
 class Car: public Vehicle, public FourWheeler { 
 
 }; 
@@ -109,15 +107,15 @@ class Car: public Vehicle, public FourWheeler {
 // main function 
 int main() 
 { 
-	// creating object of sub class will 
-	// invoke the constructor of base classes 
 	Car obj; 
 	return 0; 
 } 
-
 ```
+What is the output of the inheritance example above?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzU4NTEyMiwtMTY2MzE3MTU0MiwtMT
+eyJoaXN0b3J5IjpbLTYxNTEzODU0NCwtMTY2MzE3MTU0MiwtMT
 kxNTk0OTEzMyw2MjI2OTMzMDUsLTIxNjg1MDU3MSwtNTgzMjg5
 MTMsLTIxMjMzNzAyOV19
 -->
