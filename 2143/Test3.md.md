@@ -138,16 +138,16 @@ public:
 Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all th methods above are implemented. Just write the overloaded method ... nothing else.
 
 ### Question 7
-
-Explain the difference between 	`public` , `private`, and `protected`. 
-
 - All the class members declared under __________ will be available to everyone. 
-- The data members and member functions declared __________ can be accessed by other classes too. 
+
+- - __________  access modifier is similar to that of private access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass(derived class) of that class.
 - The __________ members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 - The class members declared as __________ can be accessed only by the functions inside the class. 
-- Only the member functions or the [friend functions](https://www.geeksforgeeks.org/friend-class-function-cpp/) are allowed to access the private data members of a class.
+- Only the member functions or __________ __________ are allowed to access the private data members of a class.
+- - The data members and member functions declared __________ can be accessed by other classes too. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwOTU1NzcxLC0yMDE5MjQyNTY3LDExOT
-UwMzcxMjcsMTI5NzY1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1
-NDIsNjIyNjkzMzA1LC01ODMyODkxM119
+eyJoaXN0b3J5IjpbLTU3MTY1MjA2OCwtMjAxOTI0MjU2NywxMT
+k1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcx
+NTQyLDYyMjY5MzMwNSwtNTgzMjg5MTNdfQ==
 -->
