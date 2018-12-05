@@ -135,11 +135,10 @@ public:
 	void setDenominator(int d)
 }
 ```
-
-Overload the `+` sign to add two fractions. You can assume your defining your method inline.
+Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all the methods above are implemented. Just write the overloaded method ... nothing else.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjY1Nzk2LDE0NzQ2NTIyOTgsLTU0MT
+eyJoaXN0b3J5IjpbMTU2MjgwMTg1LDE0NzQ2NTIyOTgsLTU0MT
 Q0ODc2MiwxMTk1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0
 LC0xNjYzMTcxNTQyLC0xOTE1OTQ5MTMzLDYyMjY5MzMwNSwtMj
 E2ODUwNTcxLC01ODMyODkxMywtMjEyMzM3MDI5XX0=
