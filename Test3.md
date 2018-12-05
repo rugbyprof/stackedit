@@ -118,7 +118,7 @@ abstraction
 
 ### Question 6
 To add two fractions you need to:
--   Find a common denominator by finding the LCM (Least Common Multiple) of the two denominators.
+-   Find a common denominator by finding the LCM (Least Common Multiple) of the two denominators. w
 -   Change the fractions to have the same denominator and add both terms.
 -   Reduce the final fraction obtained into its simpler form by dividing both numerator and denominator by the largest common factor.
 
@@ -135,11 +135,10 @@ public:
 	void setDenominator(int d)
 }
 ```
-
-Overload the `+` sign to add two 
+Overload the `+` sign to add two fractions. You can assume your defining your method inline.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDIxODAzMiwtNTQxNDQ4NzYyLDExOT
+eyJoaXN0b3J5IjpbLTcxMDYxMDg0NywtNTQxNDQ4NzYyLDExOT
 UwMzcxMjcsMTI5NzY1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1
 NDIsLTE5MTU5NDkxMzMsNjIyNjkzMzA1LC0yMTY4NTA1NzEsLT
 U4MzI4OTEzLC0yMTIzMzcwMjldfQ==
