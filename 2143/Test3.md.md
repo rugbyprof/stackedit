@@ -140,15 +140,15 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 ### Question 7
 
 - A) All the class members declared as  __________ will be available to everyone. 
-- B) This access modifier is similar to one of the other access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass (derived class).
-- C) Only member functions or __________ __________ of another class are allowed to access the private data members of this class.
-- D) The __________ data members of this class can be accessed from anywhere in the program using the dot operator with the object of that class.
-- The class members declared as __________ can be accessed only by the functions inside the class. 
+- B) This access modifier is similar to th oone of the other access modifiers, the difference is that the class member declare__ are inaccessible outside the class but they can be accessed by any subclass (derived class) o that class.
+- C) Only member functions or __________ __________ of another class are allowed to access the private data members of thisa class.
+- D) The __________ data members of thisa class can be accessed from anywhere in the program using the dotirect member access operator (.) with the object of that class.
+- E) The class members declared as __________ can be accessed only by the functions inside the class. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzNTgzMzUsLTIwMTkyNDI1NjcsMT
+eyJoaXN0b3J5IjpbLTE5MTgxMjEzMjcsLTIwMTkyNDI1NjcsMT
 E5NTAzNzEyNywxMjk3NjU3MTYsLTYxNTEzODU0NCwtMTY2MzE3
 MTU0Miw2MjI2OTMzMDUsLTU4MzI4OTEzXX0=
 -->
