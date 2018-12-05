@@ -122,7 +122,7 @@ To add two fractions you need to:
 -   Change the fractions to have the same denominator and add both terms.
 -   Reduce the final fraction obtained into its simpler form by dividing both numerator and denominator by the largest common factor.
 
-Assume you have the following class that has all of those methods implemented for you.
+Assume you have the following class that has all of thosee listed methods implemented for you.
 ```cpp
 class fraction{
 	int numerator;
@@ -135,12 +135,15 @@ public:
 	void setDenominator(int d)
 }
 ```
-Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all the methods above are implemented. Just write the overloaded method ... nothing else.
+Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all th methods above are implemented. Just write the overloaded method ... nothing else.
+
+### Question 7
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTA0ODY4MCwxNTYyODAxODUsMTQ3ND
-Y1MjI5OCwtNTQxNDQ4NzYyLDExOTUwMzcxMjcsMTI5NzY1NzE2
-LC02MTUxMzg1NDQsLTE2NjMxNzE1NDIsLTE5MTU5NDkxMzMsNj
-IyNjkzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcw
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE3MjM4NzQxODcsMTk0MTA0ODY4MCwxND
+c0NjUyMjk4LC01NDE0NDg3NjIsMTE5NTAzNzEyNywxMjk3NjU3
+MTYsLTYxNTEzODU0NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMy
+w2MjI2OTMzMDUsLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMjMz
+NzAyOV19
 -->
