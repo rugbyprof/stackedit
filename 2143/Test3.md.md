@@ -124,6 +124,10 @@ To add two fractions you need to:
 
 Given:
 ```cpp
+//Assume you have a gcd function:
+int  gcd(int a,int b);
+
+
 class fraction{
 	int numerator;
 	int denominator;
@@ -135,7 +139,7 @@ public:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NDc5NDU3LDExOTUwMzcxMjcsMTI5Nz
-Y1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1NDIsNjIyNjkzMzA1
-LC01ODMyODkxM119
+eyJoaXN0b3J5IjpbLTUzODUyMTQ3NSwxMTk1MDM3MTI3LDEyOT
+c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLDYyMjY5MzMw
+NSwtNTgzMjg5MTNdfQ==
 -->
