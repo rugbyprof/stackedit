@@ -128,7 +128,7 @@ class fraction{
 	int numerator;
 	int denominator;
 	fraction reduce(fraction f);
-	int  lcm(int a,int b);
+	int  lca,int b);
 public:
 	fraction(int n,int d);
 	void setumerator(int n);
@@ -140,8 +140,11 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 ### Question 7
 
 Explain the difference between 	`public` , `private`, and `protected`. 
+
+A) All the class members declared under __________ will be available to everyone. 
+B) The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjMxOTU2NSwtMjAxOTI0MjU2NywxMT
-k1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcx
-NTQyLDYyMjY5MzMwNSwtNTgzMjg5MTNdfQ==
+eyJoaXN0b3J5IjpbLTUxNzExNTI0LC0yMDE5MjQyNTY3LDExOT
+UwMzcxMjcsMTI5NzY1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1
+NDIsNjIyNjkzMzA1LC01ODMyODkxM119
 -->
