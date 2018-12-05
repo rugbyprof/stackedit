@@ -124,22 +124,23 @@ To add two fractions you need to:
 
 Given:
 ```cpp
-//Assume you have a gcd function:
-int  gcd(int a,int b);
-
-
+//Assume you have the following class 
 class fraction{
 	int numerator;
 	int denominator;
+	fraction lowest(fraction f);
+	int  gcd(int a,int b);
 public:
-	void setnumerator(int n){
-		
-	}
+	fraction(int n,int d);
+	void setNumerator(int n);
+	void setDenominator(int d);
 }
+
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODUyMTQ3NSwxMTk1MDM3MTI3LDEyOT
+eyJoaXN0b3J5IjpbMTg2MDEyMDI1MiwxMTk1MDM3MTI3LDEyOT
 c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLDYyMjY5MzMw
 NSwtNTgzMjg5MTNdfQ==
 -->
