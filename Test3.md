@@ -140,17 +140,17 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 ### Question 7
 
 - All the class members declared  __________ will be available to everyone. 
--  This access modifier is similar to that of one of the other access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass (derived class) of that class.
+- This access modifier is similar to that of one of the other access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass (derived class) of that class.
 - Only member functions or __________ __________ are allowed to access the private data members of a class.
-- The __________ members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
+- The __________ data members of this class can be accessed from anywhere in the program using the dot operator with the object of that class.
 - The class members declared as __________ can be accessed only by the functions inside the class. 
-- Only the member functions or __________ __________ are allowed to access the private data members of a class.
+- Only member functions or __________ __________ of another class are allowed to access the private data members of this class.
 - - The data members and member functions declared __________ can be accessed by other classes too. 
 B) The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 - - The data members and member functions declared __________ can be accessed by other classes too. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTkyODk2NCw3MTE1NDc5MjgsLTE5Nj
+eyJoaXN0b3J5IjpbMTA4MjYwMjY4OCw3MTE1NDc5MjgsLTE5Nj
 I1ODg0MDMsLTIwMTkyNDI1NjcsMTk0MTA0ODY4MCwxNDc0NjUy
 Mjk4LC01NDE0NDg3NjIsMTE5NTAzNzEyNywxMjk3NjU3MTYsLT
 YxNTEzODU0NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMyw2MjI2
