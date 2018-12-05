@@ -127,19 +127,19 @@ Assume you have the following class that has all of those methods implemented fo
 class fraction{
 	int numerator;
 	int denominator;
-	fraction lowest(fraction f);
-	int  gcd(int a,int b);
-	int lcm(int a, int b);
+	fraction reduce(fraction f);
+	int  lcm int (int a,int b);
 public:
 	fraction(int n,int d);
 	void setumerator(int n){;
 	void setDenominator(int d)
 }
 ```
+
 Overload the `+` sign to add two fractions. You can assume your defining your method inline.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc3MDYzNDAsMTE5NTAzNzEyNywxMj
-k3NjU3MTYsLTYxNTEzODU0NCwtMTY2MzE3MTU0Miw2MjI2OTMz
-MDUsLTU4MzI4OTEzXX0=
+eyJoaXN0b3J5IjpbLTQ4ODU4ODEyNywxMTk1MDM3MTI3LDEyOT
+c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLDYyMjY5MzMw
+NSwtNTgzMjg5MTNdfQ==
 -->
