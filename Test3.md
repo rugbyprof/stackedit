@@ -113,9 +113,11 @@ int main()
 ```
 What is the output of the inheritance example above?
 
+### Question 5
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTEzODU0NCwtMTY2MzE3MTU0MiwtMT
-kxNTk0OTEzMyw2MjI2OTMzMDUsLTIxNjg1MDU3MSwtNTgzMjg5
-MTMsLTIxMjMzNzAyOV19
+eyJoaXN0b3J5IjpbMTI5NzY1NzE2LC02MTUxMzg1NDQsLTE2Nj
+MxNzE1NDIsLTE5MTU5NDkxMzMsNjIyNjkzMzA1LC0yMTY4NTA1
+NzEsLTU4MzI4OTEzLC0yMTIzMzcwMjldfQ==
 -->
