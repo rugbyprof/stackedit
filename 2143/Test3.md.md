@@ -140,17 +140,16 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 ### Question 7
 
 - All the class members declared  __________ will be available to everyone. 
-- This access modifier is similar to that of one of the other access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass (derived class) of that class.
-- Only member functions or __________ __________ are allowed to access the private data members of a class.
+- This access modifier is similar to one of the other access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass (derived class).
+- Only member functions or __________ __________ of another class are allowed to access the private data members of this class.
 - The __________ data members of this class can be accessed from anywhere in the program using the dot operator with the object of that class.
 - The class members declared as __________ can be accessed only by the functions inside the class. 
-- Only member functions or __________ __________ of another class are allowed to access the private data members of this class.
-- - The data members and member functions declared __________ can be accessed by other classes too. 
-B) The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
+- The data members and member functions declared as __________ can be accessed by other classes to. 
+- The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 - - The data members and member functions declared __________ can be accessed by other classes too. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjYwMjY4OCwtMjAxOTI0MjU2NywxMT
-k1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcx
-NTQyLDYyMjY5MzMwNSwtNTgzMjg5MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQ2NjE3OTksLTIwMTkyNDI1NjcsMT
+E5NTAzNzEyNywxMjk3NjU3MTYsLTYxNTEzODU0NCwtMTY2MzE3
+MTU0Miw2MjI2OTMzMDUsLTU4MzI4OTEzXX0=
 -->
