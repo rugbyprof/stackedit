@@ -141,19 +141,21 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 -
 Explain the difference between 	`public` , `private`, and `protected`. 
 
-A) All the class members declared under __________ will be available to everyone. 
-
-- - __________  access modifier is similar to that of private access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass(derived class) of that class.
+A) All the class members declared  __________ will be available to everyone. 
+-  __________  access modifier is similar to that  access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass(derived class) of that class.
+- - Only the member functions or __________ __________ are allowed to access the private data members of a class.
 - The __________ members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 - The class members declared as __________ can be accessed only by the functions inside the class. 
 - Only the member functions or __________ __________ are allowed to access the private data members of a class.
 - - The data members and member functions declared __________ can be accessed by other classes too. 
 B) The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
+- - The data members and member functions declared __________ can be accessed by other classes too. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNTQ3OTI4LC01NzE2NTIwNjgsLTE5Nj
-I1ODg0MDMsLTIwMTkyNDI1NjcsMTk0MTA0ODY4MCwxNDc0NjUy
-Mjk4LC01NDE0NDg3NjIsMTE5NTAzNzEyNywxMjk3NjU3MTYsLT
-YxNTEzODU0NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMyw2MjI2
-OTMzMDUsLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMjMzNzAyOV
-19
+eyJoaXN0b3J5IjpbLTExMzA0OTk1NDksNzExNTQ3OTI4LC0xOT
+YyNTg4NDAzLC0yMDE5MjQyNTY3LDE5NDEwNDg2ODAsMTQ3NDY1
+MjI5OCwtNTQxNDQ4NzYyLDExOTUwMzcxMjcsMTI5NzY1NzE2LC
+02MTUxMzg1NDQsLTE2NjMxNzE1NDIsLTE5MTU5NDkxMzMsNjIy
+NjkzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcwMj
+ldfQ==
 -->
