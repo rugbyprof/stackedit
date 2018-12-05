@@ -117,6 +117,12 @@ What is the output of the inheritance example above?
 abstraction
 
 ### Question 6
+To add two fractions you need to:
+
+
+-   Find a common denominator by finding the LCM (Least Common Multiple) of the two denominators.
+-   Change the fractions to have the same denominator and add both terms.
+-   Reduce the final fraction obtained into its simpler form by dividing both numerator and denominator by there largest common factor.
 
 Given:
 ```cpp
@@ -131,7 +137,7 @@ public:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDI3NDM3MiwxMTk1MDM3MTI3LDEyOT
+eyJoaXN0b3J5IjpbMTM4OTgwODM3NiwxMTk1MDM3MTI3LDEyOT
 c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLC0xOTE1OTQ5
 MTMzLDYyMjY5MzMwNSwtMjE2ODUwNTcxLC01ODMyODkxMywtMj
 EyMzM3MDI5XX0=
