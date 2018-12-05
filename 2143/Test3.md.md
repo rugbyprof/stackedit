@@ -83,7 +83,42 @@ Polymorphism means to have many forms. What this means in OOP is that we overrid
 - B) Method overloading.
 - C) Method overriding.
 
+### Question 4
+
+```cpp
+class Vehicle { 
+public: 
+	Vehicle() 
+	{ 
+	cout << "This is a Vehicle" << endl; 
+	} 
+}; 
+
+
+class FourWheeler { 
+public: 
+	FourWheeler() 
+	{ 
+	cout << "This is a 4 wheeler Vehicle" << endl; 
+	} 
+}; 
+
+// sub class derived from two base classes 
+class Car: public Vehicle, public FourWheeler { 
+
+}; 
+
+// main function 
+int main() 
+{ 
+	// creating object of sub class will 
+	// invoke the constructor of base classes 
+	Car obj; 
+	return 0; 
+} 
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMxNzE1NDIsNjIyNjkzMzA1LC01OD
-MyODkxM119
+eyJoaXN0b3J5IjpbLTUwNTA1MjQxMCwtMTY2MzE3MTU0Miw2Mj
+I2OTMzMDUsLTU4MzI4OTEzXX0=
 -->
