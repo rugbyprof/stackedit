@@ -128,7 +128,7 @@ class fraction{
 	int numerator;
 	int denominator;
 	fraction reduce(fraction f);
-	int  lcm int (int a,int b);
+	int  lcm(int a,int b);
 public:
 	fraction(int n,int d);
 	void setumerator(int n){;
@@ -139,7 +139,7 @@ public:
 Overload the `+` sign to add two fractions. You can assume your defining your method inline.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODU4ODEyNywxMTk1MDM3MTI3LDEyOT
-c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLDYyMjY5MzMw
-NSwtNTgzMjg5MTNdfQ==
+eyJoaXN0b3J5IjpbLTc4NjY1Nzk2LDExOTUwMzcxMjcsMTI5Nz
+Y1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1NDIsNjIyNjkzMzA1
+LC01ODMyODkxM119
 -->
