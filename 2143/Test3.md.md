@@ -122,9 +122,8 @@ To add two fractions you need to:
 -   Change the fractions to have the same denominator and add both terms.
 -   Reduce the final fraction obtained into its simpler form by dividing both numerator and denominator by the largest common factor.
 
-Given:
+Assume you have the following class that has all of those methods implemented for you.
 ```cpp
-//Assume you have the following class 
 class fraction{
 	int numerator;
 	int denominator;
@@ -132,15 +131,15 @@ class fraction{
 	int  gcd(int a,int b);
 public:
 	fraction(int n,int d);
-	void setNumerator(int n);
-	void setDenominator(int d);
+	void setumerator(int n){;
+	void setDenominator(int d)
 }
-
-
 ```
 
+Overload the `+` sign to add
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDEyMDI1MiwxMTk1MDM3MTI3LDEyOT
+eyJoaXN0b3J5IjpbMTczMTgxMTI0NCwxMTk1MDM3MTI3LDEyOT
 c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLDYyMjY5MzMw
 NSwtNTgzMjg5MTNdfQ==
 -->
