@@ -115,8 +115,9 @@ What is the output of the inheritance example above?
 
 ### Question 5
 
-
+If I overload a method
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzY1NzE2LC02MTUxMzg1NDQsLTE2Nj
-MxNzE1NDIsNjIyNjkzMzA1LC01ODMyODkxM119
+eyJoaXN0b3J5IjpbLTEyNjI0NTEyODgsMTI5NzY1NzE2LC02MT
+UxMzg1NDQsLTE2NjMxNzE1NDIsNjIyNjkzMzA1LC01ODMyODkx
+M119
 -->
