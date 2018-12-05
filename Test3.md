@@ -118,11 +118,9 @@ abstraction
 
 ### Question 6
 To add two fractions you need to:
-
-
 -   Find a common denominator by finding the LCM (Least Common Multiple) of the two denominators.
 -   Change the fractions to have the same denominator and add both terms.
--   Reduce the final fraction obtained into its simpler form by dividing both numerator and denominator by there largest common factor.
+-   Reduce the final fraction obtained into its simpler form by dividing both numerator and denominator by the largest common factor.
 
 Given:
 ```cpp
@@ -137,8 +135,8 @@ public:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTgwODM3NiwxMTk1MDM3MTI3LDEyOT
-c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLC0xOTE1OTQ5
-MTMzLDYyMjY5MzMwNSwtMjE2ODUwNTcxLC01ODMyODkxMywtMj
-EyMzM3MDI5XX0=
+eyJoaXN0b3J5IjpbMzA1NDc5NDU3LDExOTUwMzcxMjcsMTI5Nz
+Y1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1NDIsLTE5MTU5NDkx
+MzMsNjIyNjkzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMT
+IzMzcwMjldfQ==
 -->
