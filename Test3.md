@@ -128,18 +128,18 @@ class fraction{
 	int numerator;
 	int denominator;
 	fraction lowest(fraction f);
-	int  gcd(int a,int b);
-public:
+	int  gcdtotd int public:
 	fraction(int n,int d);
 	void setumerator(int n){;
 	void setDenominator(int d)
 }
 ```
+
 Overload the `+` sign to add two fractions. You can assume your defining your method inline.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTUzMjYzOSwtNTQxNDQ4NzYyLDExOT
-UwMzcxMjcsMTI5NzY1NzE2LC02MTUxMzg1NDQsLTE2NjMxNzE1
-NDIsLTE5MTU5NDkxMzMsNjIyNjkzMzA1LC0yMTY4NTA1NzEsLT
-U4MzI4OTEzLC0yMTIzMzcwMjldfQ==
+eyJoaXN0b3J5IjpbMTQ3NDY1MjI5OCwtMjgxNTMyNjM5LC01ND
+E0NDg3NjIsMTE5NTAzNzEyNywxMjk3NjU3MTYsLTYxNTEzODU0
+NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMyw2MjI2OTMzMDUsLT
+IxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMjMzNzAyOV19
 -->
