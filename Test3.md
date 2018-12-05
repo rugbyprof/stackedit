@@ -131,8 +131,8 @@ class fraction{
 	int  lcm(int a,int b);
 public:
 	fraction(int n,int d);
-	void setumerator(int n){;
-	void setDenominator(int d)
+	void setumerator(int n);
+	void setDenominator(int d);
 }
 ```
 Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all th methods above are implemented. Just write the overloaded method ... nothing else.
@@ -141,9 +141,9 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTMxMDYzLDE5NDEwNDg2ODAsMTQ3ND
-Y1MjI5OCwtNTQxNDQ4NzYyLDExOTUwMzcxMjcsMTI5NzY1NzE2
-LC02MTUxMzg1NDQsLTE2NjMxNzE1NDIsLTE5MTU5NDkxMzMsNj
-IyNjkzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcw
-MjldfQ==
+eyJoaXN0b3J5IjpbLTIwMTkyNDI1NjcsMTk0MTA0ODY4MCwxND
+c0NjUyMjk4LC01NDE0NDg3NjIsMTE5NTAzNzEyNywxMjk3NjU3
+MTYsLTYxNTEzODU0NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMy
+w2MjI2OTMzMDUsLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMjMz
+NzAyOV19
 -->
