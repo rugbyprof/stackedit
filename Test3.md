@@ -127,8 +127,8 @@ Assume you have the following class that has all of those methods implemented fo
 class fraction{
 	int numerator;
 	int denominator;
-	fraction reduce(fraction f);
-	int  lcm(int a,int b);
+	fraction e(fraction f);
+	int  ct int (int a,int b);
 public:
 	fraction(int n,int d);
 	void setumerator(int n){;
@@ -138,8 +138,9 @@ public:
 Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all the methods above are implemented. Just write the overloaded method ... nothing else.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjgwMTg1LDE0NzQ2NTIyOTgsLTU0MT
-Q0ODc2MiwxMTk1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0
-LC0xNjYzMTcxNTQyLC0xOTE1OTQ5MTMzLDYyMjY5MzMwNSwtMj
-E2ODUwNTcxLC01ODMyODkxMywtMjEyMzM3MDI5XX0=
+eyJoaXN0b3J5IjpbMTk0MTA0ODY4MCwxNTYyODAxODUsMTQ3ND
+Y1MjI5OCwtNTQxNDQ4NzYyLDExOTUwMzcxMjcsMTI5NzY1NzE2
+LC02MTUxMzg1NDQsLTE2NjMxNzE1NDIsLTE5MTU5NDkxMzMsNj
+IyNjkzMzA1LC0yMTY4NTA1NzEsLTU4MzI4OTEzLC0yMTIzMzcw
+MjldfQ==
 -->
