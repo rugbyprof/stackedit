@@ -138,18 +138,22 @@ public:
 Overload the `+` sign to add two fractions. You can assume your defining your method inline. Assume all th methods above are implemented. Just write the overloaded method ... nothing else.
 
 ### Question 7
-- All the class members declared under __________ will be available to everyone. 
+-
+Explain the difference between 	`public` , `private`, and `protected`. 
+
+A) All the class members declared under __________ will be available to everyone. 
 
 - - __________  access modifier is similar to that of private access modifiers, the difference is that the class member declared as ___________ are inaccessible outside the class but they can be accessed by any subclass(derived class) of that class.
 - The __________ members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 - The class members declared as __________ can be accessed only by the functions inside the class. 
 - Only the member functions or __________ __________ are allowed to access the private data members of a class.
 - - The data members and member functions declared __________ can be accessed by other classes too. 
-
+B) The data members and member functions declared public can be accessed by other classes too. The public members of a class can be accessed from anywhere in the program using the direct member access operator (.) with the object of that class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTY1MjA2OCwtMTk2MjU4ODQwMywtMj
-AxOTI0MjU2NywxOTQxMDQ4NjgwLDE0NzQ2NTIyOTgsLTU0MTQ0
-ODc2MiwxMTk1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0LC
-0xNjYzMTcxNTQyLC0xOTE1OTQ5MTMzLDYyMjY5MzMwNSwtMjE2
-ODUwNTcxLC01ODMyODkxMywtMjEyMzM3MDI5XX0=
+eyJoaXN0b3J5IjpbNzExNTQ3OTI4LC01NzE2NTIwNjgsLTE5Nj
+I1ODg0MDMsLTIwMTkyNDI1NjcsMTk0MTA0ODY4MCwxNDc0NjUy
+Mjk4LC01NDE0NDg3NjIsMTE5NTAzNzEyNywxMjk3NjU3MTYsLT
+YxNTEzODU0NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMyw2MjI2
+OTMzMDUsLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMjMzNzAyOV
+19
 -->
