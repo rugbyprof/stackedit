@@ -114,10 +114,13 @@ int main()
 What is the output of the inheritance example above?
 
 ### Question 5
+abstraction
 
-If I overload a method
+### Question 6
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0NTEyODgsMTI5NzY1NzE2LC02MT
-UxMzg1NDQsLTE2NjMxNzE1NDIsNjIyNjkzMzA1LC01ODMyODkx
-M119
+eyJoaXN0b3J5IjpbMTE5NTAzNzEyNywxMjk3NjU3MTYsLTYxNT
+EzODU0NCwtMTY2MzE3MTU0Miw2MjI2OTMzMDUsLTU4MzI4OTEz
+XX0=
 -->
