@@ -118,9 +118,21 @@ abstraction
 
 ### Question 6
 
+Given:
+```cpp
+class fraction{
+	int numerator;
+	int denominator;
+public:
+	void setnumerator(int n){
+		
+	}
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTAzNzEyNywxMjk3NjU3MTYsLTYxNT
-EzODU0NCwtMTY2MzE3MTU0MiwtMTkxNTk0OTEzMyw2MjI2OTMz
-MDUsLTIxNjg1MDU3MSwtNTgzMjg5MTMsLTIxMjMzNzAyOV19
+eyJoaXN0b3J5IjpbLTQ1NDI3NDM3MiwxMTk1MDM3MTI3LDEyOT
+c2NTcxNiwtNjE1MTM4NTQ0LC0xNjYzMTcxNTQyLC0xOTE1OTQ5
+MTMzLDYyMjY5MzMwNSwtMjE2ODUwNTcxLC01ODMyODkxMywtMj
+EyMzM3MDI5XX0=
 -->
