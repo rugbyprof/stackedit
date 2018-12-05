@@ -139,11 +139,11 @@ Overload the `+` sign to add two fractions. You can assume your defining your me
 
 ### Question 7
 
-
+Explain the difference between 	`public` , `private`, and `protected`. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI1ODg0MDMsLTIwMTkyNDI1NjcsMT
-k0MTA0ODY4MCwxNDc0NjUyMjk4LC01NDE0NDg3NjIsMTE5NTAz
-NzEyNywxMjk3NjU3MTYsLTYxNTEzODU0NCwtMTY2MzE3MTU0Mi
-wtMTkxNTk0OTEzMyw2MjI2OTMzMDUsLTIxNjg1MDU3MSwtNTgz
-Mjg5MTMsLTIxMjMzNzAyOV19
+eyJoaXN0b3J5IjpbLTUxODU4MDQ0NywtMTk2MjU4ODQwMywtMj
+AxOTI0MjU2NywxOTQxMDQ4NjgwLDE0NzQ2NTIyOTgsLTU0MTQ0
+ODc2MiwxMTk1MDM3MTI3LDEyOTc2NTcxNiwtNjE1MTM4NTQ0LC
+0xNjYzMTcxNTQyLC0xOTE1OTQ5MTMzLDYyMjY5MzMwNSwtMjE2
+ODUwNTcxLC01ODMyODkxMywtMjEyMzM3MDI5XX0=
 -->
